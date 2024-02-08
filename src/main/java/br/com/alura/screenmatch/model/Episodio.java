@@ -13,7 +13,7 @@ public class Episodio {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private Integer temporada;
-    @Column(unique = true)
+//    @Column(unique = false)
     private String titulo;
     private Integer numeroEpisodio;
     private Double avaliacao;
