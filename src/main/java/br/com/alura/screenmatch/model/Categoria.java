@@ -1,7 +1,5 @@
 package br.com.alura.screenmatch.model;
 
-import java.util.PrimitiveIterator;
-
 public enum Categoria {
     ACAO("Action", "Ação"),
     ROMANCE("Romance", "Romance"),

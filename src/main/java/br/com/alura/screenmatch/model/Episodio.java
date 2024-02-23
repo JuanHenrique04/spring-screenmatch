@@ -1,7 +1,6 @@
 package br.com.alura.screenmatch.model;
 
 import jakarta.persistence.*;
-import org.hibernate.annotations.ManyToAny;
 
 import java.time.LocalDate;
 import java.time.format.DateTimeParseException;
